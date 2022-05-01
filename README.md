@@ -1,5 +1,5 @@
 # Data Visualization Project Using Tableau
-<h1>What is Tableau ?</h1>
+<h2>What is Tableau ?</h2>
 Tableau software is one of the fastest growing data visualization tools which is currently being used in the Business intelligence industry.
 It is the best way to change or transform the raw set of data into an easily understandable format with zero technical skills and coding knowledge.
 
@@ -13,3 +13,6 @@ It is also used for managing metadata.
 Tableau software imports data of all sizes and ranges.
 For a non-technical user, Tableau is a life saver as it offers the facility to create ‘no-code’ data queries.
 Ever since it was introduced, this data visualization tool is used for Business Intelligence industry. Organizations like Amazon, Walmart, Accenture, Lenovo, and so on widely use Tableau.
+
+
+My Tableau Public Account link - https://public.tableau.com/app/profile/suyog.magar 
